@@ -1,0 +1,4 @@
+<span id="a">sahil@dua</span>:<span id="b">~</span><span id="c">$</span> cat second.txt<br/><br/>
+Hi, I'm Sahil Dua.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I'm the dude of <a href="#">NSIT</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->My email address is: <a href="http://scr.im/sahildua">http://scr.im/sahildua</a></p>
+<a href="javascript:void(0);" id="back" class="navigation">BACK</a>
