@@ -1,8 +1,8 @@
 /*
 * @Author: sahildua2305
 * @Date:   2016-03-14 20:53:44
-* @Last Modified by:   sahildua2305
-* @Last Modified time: 2016-03-14 23:42:40
+* @Last Modified by:   Sahil Dua
+* @Last Modified time: 2016-03-15 00:09:20
 */
 
 
@@ -19,7 +19,7 @@ function type(t) {
 			console.log("first clicked");
 			$("#console").html("");
 
-			typeFile("first.txt", 6);
+			typeFile("files/first.txt", 6);
 		});
 
 		// click handler for #second link
@@ -27,7 +27,7 @@ function type(t) {
 			console.log("second clicked");
 			$("#console").html("");
 
-			typeFile("second.txt", 6);
+			typeFile("files/second.txt", 6);
 		});
 
 		// click handler for #third link
@@ -35,7 +35,7 @@ function type(t) {
 			console.log("third clicked");
 			$("#console").html("");
 
-			typeFile("third.txt", 6);
+			typeFile("files/third.txt", 6);
 		});
 
 		// click handler for #back link
@@ -43,7 +43,7 @@ function type(t) {
 			console.log("back clicked");
 			$("#console").html("");
 
-			typeFile("intro.txt", 9);
+			typeFile("files/intro.txt", 9);
 		});
 	}
 }
@@ -118,6 +118,6 @@ $(document).ready(function(){
 
 	
 
-	typeFile("intro.txt", 6);
+	typeFile("files/intro.txt", 6);
 
 });
