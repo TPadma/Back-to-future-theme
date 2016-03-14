@@ -1,0 +1,16 @@
+<span id="a">sahil@dua</span>:<span id="b">~</span><span id="c">$</span> cat cars.txt<br/><br/>
+<h1>Car Technology</h1>
+<p><span id="b">"It’s difficult to make predictions, especially about the future."</span></p>
+<p>One way to qualify the passage of time is through technology eras, each hallmarked by the progression of transportation - from steam engine to internal combustion, jet propulsion, and so on. This is why flying cars and robot-piloted taxis remain a staple in science fiction narratives.</p><p>But putting the Jetsons aside for a moment, what’s actually in store for the automotive world in the next few years?</p>
+<p>It’s difficult to make predictions, but what the heck: <span id="b">Prognosticate with me for a bit, will you?</span></p>
+
+<h3>1 year out: 2017</h3><p>Throw in <a href="http://www.digitaltrends.com/infotainment-system-reviews/apple-carplay-review/" target="_blank">Apple Carplay</a> and <a href="http://www.digitaltrends.com/infotainment-system-reviews/android-auto-review/" target="_blank">Android Auto</a> which will be barreling towards ubiquity by 2017, and the world of connected apps you’ve come to rely on from your smartphone for will be available every time you get behind the wheel.</p>
+<h3>2 years out: 2018</h3><p>Bosch has also demonstrated its ability to have all the systems of a car communicate with its <a href="http://products.bosch-mobility-solutions.com/en/de/driving_comfort/driving_comfort_systems_for_passenger_cars_1/driver_assistance_systems_4/driver_assistance_systems_5.html" target="_blank">traffic jam assist technology</a>. This system, with the help of a stereo video camera (to perceive depth the same way our two eyes allow), traffic jam assists makes the gridlock under 35 miles per hour slightly more bearable. Autonomous cars, where we push the power button, enter a destination, and then open the newspaper, will still be a challenge by 2018. But driver-assist technologies will make our cars feel like they drive themselves.</p>
+<h3>5 years out: 2021</h3><p>By 2021, the first production self-driving vehicle should be for sale. In 2014, Elon Musk said fully autonomous cars should be on the road in five to six years. And the folks at Ford, Google, and other companies have made similar projections. The challenge, of course, will be communicating to the other autonomous and human-piloted cars on the road.</p>
+<h3>10 years out: 2026</h3><p>What lies beyond? Short of the massive class schism predicted by Fritz Lang’s Metropolis, cars should certainly still be around by 2026, but they will have certainly changed enormously. Automakers like Audi and Mercedes-Benz believe that in 10 years, fully autonomous driving will be sophisticated enough for regular use. Perhaps we’ll even have the <a href="http://www.digitaltrends.com/cars/self-driving-car-moral-decisions/" target="_blank">legalities and moral quandaries</a> of self-driving cars sorted out by then.</p>
+
+<a href="javascript:void(0);" id="back" class="navigation">BACK</a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

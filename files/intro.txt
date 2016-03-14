@@ -1,4 +1,5 @@
 <span id="a">sahil@dua</span>:<span id="b">~</span><span id="c">$</span> cat intro.txt<br/><br/>
-<p>I'm the dude of <a href="#">NSIT</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->My email address is: <a href="http://scr.im/sahildua">http://scr.im/sahildua</a>
-<p>Read about</p>
-<p><a href="javascript:void(0);" id="first" class="navigation">First</a><a href="javascript:void(0);" id="second" class="navigation">Second</a><a href="javascript:void(0);" id="third" class="navigation">Third</a></p>
+<p><span id="b">"The Science of today is the technology of tomorrow."</span></p><!- oqwipjefqwioefjwioqfjshdfsfbsuihfsuinfchusihguvbsdgrfciusnhfiushbuyvegsciefximoehncfbugrsvycfsnxhiemjcnibhvgyudcnrnhmoiqwjfeioqwjefoi -->
+<p></p>
+<p>Let's explore the future of some of the aspects of science - </p>
+<p><a href="javascript:void(0);" id="robotics" class="navigation">Robotics</a><a href="javascript:void(0);" id="cars" class="navigation">Cars</a><a href="javascript:void(0);" id="ml" class="navigation">Machine Learning</a></p>

@@ -1,0 +1,11 @@
+<span id="a">sahil@dua</span>:<span id="b">~</span><span id="c">$</span> cat ml.txt<br/><br/>
+<h1>Machine Learning</h1>
+<p>All the methods that have proved to be useful for problems in the past will continue to be useful for similar problems in the future.</p><p>For example, Art Samuel developed a method of machine learning for his <span id="b">checker-playing program</span> in 1959, which learned to play well enough to beat its author.  It even won a game against the Connecticut state champion. Variations of his method are still widely used today.  In fact, the method that the IBM Watson system used to learn how to evaluate responses to Jeopardy! questions is very similar to the method that Samuel developed to learn how to evaluate moves in checkers.</p>
+<p>On the other hand, no AI system today can learn languages as rapidly and accurately as a young child.  That means there will have to be quite a few more breakthroughs before ML systems can reach a human level.</p>
+
+
+<a href="javascript:void(0);" id="back" class="navigation">BACK</a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

@@ -2,7 +2,7 @@
 * @Author: sahildua2305
 * @Date:   2016-03-14 20:53:44
 * @Last Modified by:   Sahil Dua
-* @Last Modified time: 2016-03-15 00:09:20
+* @Last Modified time: 2016-03-15 02:53:56
 */
 
 
@@ -15,27 +15,24 @@ function type(t) {
 		clearInterval(cursorTimer);
 
 		// click handler for #first link
-		$("#first").click(function(){
-			console.log("first clicked");
+		$("#robotics").click(function(){
 			$("#console").html("");
 
-			typeFile("files/first.txt", 6);
+			typeFile("files/robotics.txt", 6);
 		});
 
 		// click handler for #second link
-		$("#second").click(function(){
-			console.log("second clicked");
+		$("#cars").click(function(){
 			$("#console").html("");
 
-			typeFile("files/second.txt", 6);
+			typeFile("files/cars.txt", 6);
 		});
 
 		// click handler for #third link
-		$("#third").click(function(){
-			console.log("third clicked");
+		$("#ml").click(function(){
 			$("#console").html("");
 
-			typeFile("files/third.txt", 6);
+			typeFile("files/ml.txt", 6);
 		});
 
 		// click handler for #back link
@@ -43,7 +40,7 @@ function type(t) {
 			console.log("back clicked");
 			$("#console").html("");
 
-			typeFile("files/intro.txt", 9);
+			typeFile("files/intro.txt", 15);
 		});
 	}
 }
@@ -116,8 +113,6 @@ function typeFile(filename, speed){
 
 $(document).ready(function(){
 
-	
-
-	typeFile("files/intro.txt", 6);
+	typeFile("files/intro.txt", 3);
 
 });

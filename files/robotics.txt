@@ -1,0 +1,11 @@
+<span id="a">sahil@dua</span>:<span id="b">~</span><span id="c">$</span> cat robotics.txt<br/><br/>
+<h1>Robotics</h1>
+<p>The robots haven't just landed in the workplace - they’re expanding skills, moving up the corporate ladder, showing <span id="b">awesome productivity</span> and <span id="b">retention rates</span>, and increasingly shoving aside their human counterparts.</p><p>One multi-tasker bot, from Momentum Machines, can make (and flip) a gourmet hamburger in 10 seconds and could soon <span id="b">replace an entire McDonalds crew</span>.</p><p>A manufacturing device from Universal Robots doesn’t just solder, paint, screw, glue, and grasp - it builds new parts for itself on the fly when they wear out or bust.</p><p></p><p>And just this week, Google won a patent to start building <span id="b">worker robots with personalities</span>.</p>
+<h2>Future of Robotics</h2><h4><a href="http://news.bbc.co.uk/2/hi/science/nature/7946780.stm" target="_blank">Life Like Robots</a></h4><p>Realistic looking hair and skin with embedded sensors will allow robots to react naturally in their environment. For example, a robot that senses your touch on the shoulder and turns to greet you.</p><h4><a href="http://www.physorg.com/news146852350.html" target="_blank">Rescue Robots</a></h4><p>Imagine yourself lost deep in the forest on a cold autumn night and nightfall is rapidly approaching. Too windy for search aircraft and too dark for ground teams, this could be a life threatening situation. Fortunately for you, it is ten years into the future and hundreds of tiny intelligent robots will be combing the woods for you throughout the night.</p><h4><a href="http://www.gizmag.com/darpa-prosthetic-physical-sensations-mechanical-hand/39398/" target="_blank">Robotic Prosthetics</a></h4><p>Prosthetics are one of the best uses for robotics and man-machine interfaces.</p><h4><a href="http://www.robocup.org/" target="_blank">Robotic Competitions</a></h4><p>The ultimate goal of the RoboCup project is to develop a team of fully autonomous humanoid robots that can win against the human world champion team in soccer by the year 2050.</p>
+
+
+<a href="javascript:void(0);" id="back" class="navigation">BACK</a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
